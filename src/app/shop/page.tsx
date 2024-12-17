@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Navbar from "../components/Navbar";
 import GreenHeader from "../components/green-header";
-import arrow from "../images/Vector (13).svg";
+import arrow from "../images/vector (13).svg";
 import cat1 from "../images/card-item.svg";
 import cat2 from "../images/card-item (1).svg";
 import cat3 from "../images/card-item (2).svg";

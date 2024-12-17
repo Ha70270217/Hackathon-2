@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar2";
 import Image from "next/image";
-import arrow from "../images/Vector (13).svg";
+import arrow from "../images/vector (13).svg";
 import circle from "../images/icn-circle circle-xs secondary-color-1.svg";
 import circle2 from "../images/icn-circle circle-xs mute.svg";
 import cm1 from "../images/fa-brands-1.svg";

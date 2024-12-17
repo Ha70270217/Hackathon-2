@@ -4,7 +4,7 @@ import Image from "next/image";
 import heart from "../images/Vector (15).svg";
 import cart from "../images/icn favorite.svg";
 import eye from "../images/icn favorite (1).svg";
-import arrow from "../images/Vector (13).svg";
+import arrow from "../images/vector (13).svg";
 import home from "../images/unsplash_QANOF9iJlFs.svg";
 
 import mainImage from "../images/single-product-1-cover-2.svg"; // Replace with your main image
