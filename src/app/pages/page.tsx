@@ -10,12 +10,7 @@ import home from "@/images/unsplash_QANOF9iJlFs.svg";
 import mainImage from "@/images/single-product-1-cover-2.svg"; // Replace with your main image
 import image1 from "@/images/single-product-1-thumb-1.svg"; // Replace with your thumbnail images
 import image2 from "@/images/single-product-1-thumb-2.svg";
-import p1 from "@/images/product-cover-5 (20).svg";
-import p2 from "@/images/product-cover-5 (21).svg";
-import p3 from "@/images/product-cover-5 (22).svg";
-import p4 from "@/images/product-cover-5 (23).svg";
-import p5 from "@/images/product-cover-5 (24).svg";
-import p6 from "@/images/product-cover-5 (26).svg";
+
 import Bestseller from "../components/bestseller";
 import Footer from "../components/Footer";
 

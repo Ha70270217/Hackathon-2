@@ -11,7 +11,7 @@ import mail from "@/images/icn settings .icn-xl (2).svg";
 import arrow from "@/images/Arrow 2.svg";
 import Footer from '../components/Footer'
 
-export default function () {
+export default function contact () {
   return (
     <div>
       {/* HERO FOR CONTACT */}
@@ -78,10 +78,10 @@ export default function () {
               {/* Emails */}
               <div className="w-full text-center">
                 <h6 className="font-Montserrat font-bold text-[14px] leading-[24px] text-[#252B42]">
-                  georgia.young@example.com
+                  georgia young@example.com
                 </h6>
                 <h6 className="font-Montserrat font-bold text-[14px] leading-[24px] text-[#252B42]">
-                  georgia.young@ple.com
+                  georgia young@ple.com
                 </h6>
               </div>
               {/* Support */}
@@ -109,10 +109,10 @@ export default function () {
               {/* Emails */}
               <div className="w-full text-center">
                 <h6 className="font-Montserrat font-bold text-[14px] leading-[24px] text-white">
-                  georgia.young@example.com
+                  georgia young@example.com
                 </h6>
                 <h6 className="font-Montserrat font-bold text-[14px] leading-[24px] text-white">
-                  georgia.young@ple.com
+                  georgia young@ple.com
                 </h6>
               </div>
               {/* Support */}
@@ -136,10 +136,10 @@ export default function () {
               {/* Emails */}
               <div className="w-full text-center">
                 <h6 className="font-Montserrat font-bold text-[14px] leading-[24px] text-[#252B42]">
-                  georgia.young@example.com
+                  georgia young@example.com
                 </h6>
                 <h6 className="font-Montserrat font-bold text-[14px] leading-[24px] text-[#252B42]">
-                  georgia.young@ple.com
+                  georgia young@ple.com
                 </h6>
               </div>
               {/* Support */}
@@ -169,11 +169,11 @@ export default function () {
           <div className="w-full max-w-[607px] h-auto flex flex-col items-center text-center gap-[16px]">
             {/* Heading */}
             <h5 className="font-Montserrat font-bold text-[16px] leading-[24px] tracking-[0.1px] text-[#252B42]">
-              WE CAN'T WAIT TO MEET YOU
+              WE CAN T WAIT TO MEET YOU
             </h5>
             {/* Main Title */}
             <h1 className="font-Montserrat font-bold text-[40px] lg:text-[58px] leading-[48px] lg:leading-[80px] tracking-[0.2px] text-[#252B42]">
-              Let’s Talk
+              Lets Talk
             </h1>
             {/* Button */}
             <button className="rounded-[5px] py-[12px] px-[20px] lg:py-[15px] lg:px-[40px] bg-[#23A6F0] text-white font-Montserrat font-bold text-[14px] leading-[22px]">

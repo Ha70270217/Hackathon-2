@@ -8,7 +8,7 @@ import cat3 from "@/images/card-item (2).svg";
 import cat4 from "@/images/card-item (3).svg";
 import cat5 from "@/images/card-item (4).svg";
 import drop from "@/images/Vector (14).svg";
-import frame from "@/images/Frame 31.svg";
+
 import clients from "@/images/desktop-clients-1.svg";
 import pic9 from "@/images/product-cover-5 (8).svg";
 import pic10 from "@/images/product-cover-5 (9).svg";

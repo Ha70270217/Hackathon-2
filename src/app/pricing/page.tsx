@@ -14,9 +14,7 @@ import twitter from "@/images/logos_twitter.svg";
 import facebook from "@/images/logos_facebook.svg";
 import insta from "@/images/ant-design_instagram-outlined.svg";
 import linkdin from "@/images/logos_linkedin-icon.svg";
-import facebookIcon from "@/images/facebook.svg";
-import instagramIcon from "@/images/insta.svg";
-import twittericon from "@/images/logos_twitter(1).svg";
+
 import Footer from "../components/Footer";
 
 export default function Pricing() {
