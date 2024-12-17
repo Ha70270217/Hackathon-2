@@ -1,7 +1,7 @@
 import Image from "next/image";
-import fb from "@/images/facebook.svg";
-import instagram from "@/images/insta-blue.svg";
-import twitter from "@/images/twitter-blue.svg"
+import fb from "../images/facebook.svg";
+import instagram from "../images/insta-blue.svg";
+import twitter from "../images/twitter-blue.svg"
 export default function Footer() {
     return (
         <footer className="bg-white relative flex flex-col py-10">

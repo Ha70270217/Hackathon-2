@@ -1,10 +1,10 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link"; 
-import user from "@/images/Vector (12).svg";
-import search from "@/images/icn settings icn-xs (6).svg"
-import cart from "@/images/icn settings icn-xs (7).svg";
-import mail from "@/images/icn settings icn-xs (8).svg";
+import user from "../images/Vector (12).svg";
+import search from "../images/icn settings icn-xs (6).svg"
+import cart from "../images/icn settings icn-xs (7).svg";
+import mail from "../images/icn settings icn-xs (8).svg";
 import { useState } from "react";
 
 export default function Navbar() {

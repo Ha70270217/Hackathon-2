@@ -1,20 +1,20 @@
 import Navbar from "../components/Navbar2";
 import Image from "next/image";
-import girl from "@/images/hero-2-bg-shape-cover.svg";
-import facebookIcon from "@/images/facebook.svg";
-import instagramIcon from "@/images/insta.svg";
-import twittericon from "@/images/logos_twitter(1).svg";
-import user1 from "@/images/team-1-user-1.svg";
-import user2 from "@/images/team-1-user-2.svg";
-import user3 from "@/images/team-1-user-3.svg";
-import cm1 from "@/images/fa-brands-1.svg";
-import cm2 from "@/images/fa-brands-2.svg";
-import cm3 from "@/images/fa-brands-3.svg";
-import cm4 from "@/images/fa-brands-4.svg";
-import cm5 from "@/images/fa-brands-5.svg";
-import cm6 from "@/images/fa-brands-6.svg";
-import girl2 from "@/images/unsplash_vjMgqUkS8q8.svg"
-import video from "@/images/media bg-cover.svg"
+import girl from "../images/hero-2-bg-shape-cover.svg";
+import facebookIcon from "../images/facebook.svg";
+import instagramIcon from "../images/insta.svg";
+import twittericon from "../images/logos_twitter(1).svg";
+import user1 from "../images/team-1-user-1.svg";
+import user2 from "../images/team-1-user-2.svg";
+import user3 from "../images/team-1-user-3.svg";
+import cm1 from "../images/fa-brands-1.svg";
+import cm2 from "../images/fa-brands-2.svg";
+import cm3 from "../images/fa-brands-3.svg";
+import cm4 from "../images/fa-brands-4.svg";
+import cm5 from "../images/fa-brands-5.svg";
+import cm6 from "../images/fa-brands-6.svg";
+import girl2 from "../images/unsplash_vjMgqUkS8q8.svg"
+import video from "../images/media bg-cover.svg"
 import Footer from "../components/Footer";
 
 export default function AboutUs() {

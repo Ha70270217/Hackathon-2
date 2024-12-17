@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import colour from "@/images/product-colors.svg"
+import colour from "../images/product-colors.svg"
 import {  ToastContainer,toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 

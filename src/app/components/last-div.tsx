@@ -1,7 +1,7 @@
 import Image from "next/image";
-import post1 from "@/images/post1.svg";
-import post2 from "@/images/post2.svg";
-import post3 from "@/images/post3.svg";
+import post1 from "../images/post1.svg";
+import post2 from "../images/post2.svg";
+import post3 from "../images/post3.svg";
 
 export default function Lastdiv() {
   const posts = [

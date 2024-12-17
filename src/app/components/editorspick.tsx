@@ -1,8 +1,8 @@
 import Image from "next/image";
-import Men from "@/images/filter.svg";
-import women from "@/images/filter (1).svg";
-import div1 from "@/images/filter (2).svg";
-import div2 from "@/images/filter (3).svg";
+import Men from "../images/filter.svg";
+import women from "../images/filter (1).svg";
+import div1 from "../images/filter (2).svg";
+import div2 from "../images/filter (3).svg";
 
 export default function Editors() {
   return (

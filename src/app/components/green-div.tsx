@@ -1,5 +1,5 @@
 import Image from "next/image";
-import greenman from "@/images/shop-hero-2-png-picture-1.svg";
+import greenman from "../images/shop-hero-2-png-picture-1.svg";
 
 export default function GreenDiv() {
   return (

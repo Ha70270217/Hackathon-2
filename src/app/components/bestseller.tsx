@@ -1,17 +1,17 @@
 import Image from "next/image";
-import pic1 from "@/images/product-cover-5 (21).svg";
-import pic2 from "@/images/product-cover-5 (22).svg";
-import pic3 from "@/images/product-cover-5 (23).svg";
-import pic4 from "@/images/product-cover-5 (24).svg";
-import pic5 from "@/images/product-cover-5 (25).svg";
-import pic6 from "@/images/product-cover-5 (20).svg";
+import pic1 from "../images/product-cover-5 (21).svg";
+import pic2 from "../images/product-cover-5 (22).svg";
+import pic3 from "../images/product-cover-5 (23).svg";
+import pic4 from "../images/product-cover-5 (24).svg";
+import pic5 from "../images/product-cover-5 (25).svg";
+import pic6 from "../images/product-cover-5 (20).svg";
 import CardT2 from "./card-text-2";
-import cm1 from "@/images/fa-brands-1.svg";
-import cm2 from "@/images/fa-brands-2.svg";
-import cm3 from "@/images/fa-brands-3.svg";
-import cm4 from "@/images/fa-brands-4.svg";
-import cm5 from "@/images/fa-brands-5.svg";
-import cm6 from "@/images/fa-brands-6.svg";
+import cm1 from "../images/fa-brands-1.svg";
+import cm2 from "../images/fa-brands-2.svg";
+import cm3 from "../images/fa-brands-3.svg";
+import cm4 from "../images/fa-brands-4.svg";
+import cm5 from "../images/fa-brands-5.svg";
+import cm6 from "../images/fa-brands-6.svg";
 
 export default function Bestseller() {
   return (

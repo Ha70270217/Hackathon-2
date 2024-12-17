@@ -1,5 +1,5 @@
 import Image from "next/image";
-import couples from "@/images/red-man-women.svg";
+import couples from "../images/red-man-women.svg";
 
 export default function Whitediv() {
   return (

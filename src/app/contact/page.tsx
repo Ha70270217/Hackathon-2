@@ -1,14 +1,14 @@
 import Navbar from "../components/Navbar2";
 import Image from "next/image";
-import twitter from "@/images/twitter-blue.svg";
-import facebook from "@/images/logos_facebook (1).svg";
-import ig from "@/images/ant-design_instagram-outlined.svg";
-import linkdenin from "@/images/logos_linkedin-icon (1).svg";
-import family from "@/images/desktop-header-24.svg";
-import phone from "@/images/icn settings .icn-xl.svg";
-import location from "@/images/icn settings .icn-xl (1).svg";
-import mail from "@/images/icn settings .icn-xl (2).svg";
-import arrow from "@/images/Arrow 2.svg";
+import twitter from "../images/twitter-blue.svg";
+import facebook from "../images/logos_facebook (1).svg";
+import ig from "../images/ant-design_instagram-outlined.svg";
+import linkdenin from "../images/logos_linkedin-icon (1).svg";
+import family from "../images/desktop-header-24.svg";
+import phone from "../images/icn settings .icn-xl.svg";
+import location from "../images/icn settings .icn-xl (1).svg";
+import mail from "../images/icn settings .icn-xl (2).svg";
+import arrow from "../images/Arrow 2.svg";
 import Footer from '../components/Footer'
 
 export default function contact () {

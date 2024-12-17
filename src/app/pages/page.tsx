@@ -1,15 +1,15 @@
 import GreenHeader from "../components/green-header";
 import Navbar from "../components/Navbar";
 import Image from "next/image";
-import heart from "@/images/Vector (15).svg";
-import cart from "@/images/icn favorite.svg";
-import eye from "@/images/icn favorite (1).svg";
-import arrow from "@/images/Vector (13).svg";
-import home from "@/images/unsplash_QANOF9iJlFs.svg";
+import heart from "../images/Vector (15).svg";
+import cart from "../images/icn favorite.svg";
+import eye from "../images/icn favorite (1).svg";
+import arrow from "../images/Vector (13).svg";
+import home from "../images/unsplash_QANOF9iJlFs.svg";
 
-import mainImage from "@/images/single-product-1-cover-2.svg"; // Replace with your main image
-import image1 from "@/images/single-product-1-thumb-1.svg"; // Replace with your thumbnail images
-import image2 from "@/images/single-product-1-thumb-2.svg";
+import mainImage from "../images/single-product-1-cover-2.svg"; // Replace with your main image
+import image1 from "../images/single-product-1-thumb-1.svg"; // Replace with your thumbnail images
+import image2 from "../images/single-product-1-thumb-2.svg";
 
 import Bestseller from "../components/bestseller";
 import Footer from "../components/Footer";

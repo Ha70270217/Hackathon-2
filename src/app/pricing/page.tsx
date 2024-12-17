@@ -1,19 +1,19 @@
 import Navbar from "../components/Navbar2";
 import Image from "next/image";
-import arrow from "@/images/Vector (13).svg";
-import circle from "@/images/icn-circle circle-xs secondary-color-1.svg";
-import circle2 from "@/images/icn-circle circle-xs mute.svg";
-import cm1 from "@/images/fa-brands-1.svg";
-import cm2 from "@/images/fa-brands-2.svg";
-import cm3 from "@/images/fa-brands-3.svg";
-import cm4 from "@/images/fa-brands-4.svg";
-import cm5 from "@/images/fa-brands-5.svg";
-import cm6 from "@/images/fa-brands-6.svg";
-import arrow2 from "@/images/icn arrow-right icn-xs.svg"
-import twitter from "@/images/logos_twitter.svg";
-import facebook from "@/images/logos_facebook.svg";
-import insta from "@/images/ant-design_instagram-outlined.svg";
-import linkdin from "@/images/logos_linkedin-icon.svg";
+import arrow from "../images/Vector (13).svg";
+import circle from "../images/icn-circle circle-xs secondary-color-1.svg";
+import circle2 from "../images/icn-circle circle-xs mute.svg";
+import cm1 from "../images/fa-brands-1.svg";
+import cm2 from "../images/fa-brands-2.svg";
+import cm3 from "../images/fa-brands-3.svg";
+import cm4 from "../images/fa-brands-4.svg";
+import cm5 from "../images/fa-brands-5.svg";
+import cm6 from "../images/fa-brands-6.svg";
+import arrow2 from "../images/icn arrow-right icn-xs.svg"
+import twitter from "../images/logos_twitter.svg";
+import facebook from "../images/logos_facebook.svg";
+import insta from "../images/ant-design_instagram-outlined.svg";
+import linkdin from "../images/logos_linkedin-icon.svg";
 
 import Footer from "../components/Footer";
 

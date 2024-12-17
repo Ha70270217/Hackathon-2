@@ -1,10 +1,10 @@
 import Image from "next/image"
-import phone from "@/images/icn settings icn-xs.svg"
-import mail from "@/images/icn settings icn-xs (1).svg";
-import insta from "@/images/icn settings icn-xs (2).svg";
-import yout from "@/images/icn settings icn-xs (3).svg";
-import fb from "@/images/icn settings icn-xs (4).svg";
-import twit from "@/images/icn settings icn-xs (5).svg";
+import phone from "../images/icn settings icn-xs.svg"
+import mail from "../images/icn settings icn-xs (1).svg";
+import insta from "../images/icn settings icn-xs (2).svg";
+import yout from "../images/icn settings icn-xs (3).svg";
+import fb from "../images/icn settings icn-xs (4).svg";
+import twit from "../images/icn settings icn-xs (5).svg";
 
 export default function BlueHeader() {
   return (
