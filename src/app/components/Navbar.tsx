@@ -2,9 +2,7 @@
 import Image from "next/image";
 import Link from "next/link"; 
 import user from "@/images/Vector (12).svg";
-import search from "@/images/icn settings icn-xs (6).svg";
-import cart from "@/images/icn settings icn-xs (7).svg";
-import mail from "@/images/icn settings icn-xs (8).svg";
+
 import { useState } from "react";
 
 export default function Navbar() {
@@ -32,9 +30,7 @@ export default function Navbar() {
         {/* Icons Section */}
         <div className="flex space-x-4 items-center">
           <Image src={user} alt="user" width={16} height={16} />
-          <Image src={search} alt="search" width={16} height={16} />
-          <Image src={cart} alt="cart" width={16} height={16} />
-          <Image src={mail} alt="mail" width={16} height={16} />
+          
         </div>
       </div>
 

@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import colours from "@/images/product-colors.svg";
+import colour from '@/Images/product-colors.svg'
 import {  ToastContainer,toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -24,7 +24,7 @@ export default function CardText() {
         </h5>
       </div>
       <div className="w-[82.2px] h-[16px] flex justify-center">
-        <Image src={colours} alt="colours" />
+        <Image src={colour} alt="colours" />
       </div>
       <button
         onClick={notify}
