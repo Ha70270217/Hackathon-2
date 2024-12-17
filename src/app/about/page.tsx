@@ -47,7 +47,7 @@ export default function AboutUs() {
     
       {/* Column 2 */}
       
-      <Image src={girl} alt="girl" className="   absolute lg:block hidden lg:left-[-1px] top-[300px] lg:top-[0px]" />
+      <Image src={girl} alt="girl" className="  absolute lg:block hidden lg:left-[-1px] top-[300px] lg:top-[0px]" />
           
   </div>
 </div>
